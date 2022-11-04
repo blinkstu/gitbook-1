@@ -8,7 +8,9 @@
 
 3\. Создать перевозки
 
-&#x20;![](<.gitbook/assets/image (6).png>)
+&#x20;
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 4\. Выбрать клиента, группу, контакт и приемщика
 
@@ -16,7 +18,7 @@
 
 5\. Заполните таблицу, как показано ниже. Операции таблицы похожи на Excel.
 
-![](<.gitbook/assets/image (4) (1).png>)
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. Нажмите "Создать перевозки" в правый нижний угол
 

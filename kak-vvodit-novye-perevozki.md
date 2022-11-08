@@ -10,7 +10,7 @@
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Выбрать клиента, группу, контакт и приемщика
 
@@ -24,4 +24,4 @@
 
 7\.  Проверьте информацию и нажмите "Подвердить".
 
-&#x20;![](.gitbook/assets/image.png)
+&#x20;![](<.gitbook/assets/image (4).png>)

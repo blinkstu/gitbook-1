@@ -8,7 +8,7 @@
 
 3> Создать
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 4> Заполнить информацию **(Загрузить файлы протокол цены в кнопку "Загрузить")**
 
@@ -24,4 +24,4 @@
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
